@@ -7,7 +7,7 @@ Ich baue **Apps und KI-Projekte, die den Alltag einfacher machen**: mit FlutterF
 | Projekt | Beschreibung | Tech | Status |
 |---|---|---|---|
 | **ProcureFlow** 🔒 | Einkaufs-Cockpit mit automatischer Budget- und Freigabeprüfung (Uni-Projekt, TU Dortmund) | FlutterFlow · Flutter · Dart | 🟢 fertig |
-| **Kochtopf-Roulette** 🔒 | Familien-Koch-App: KI-Rezepte per Roulette, passend zu Allergien und Vorlieben aller Mitesser | HTML · JavaScript · Claude-KI | 🟢 fertig |
+| **Kochtopf-Roulette** 🔒 | Familien-Koch-App: KI-Rezepte per Roulette, passend zu Allergien und Vorlieben aller Mitesser | HTML · CSS · JavaScript · Claude-KI | 🟢 fertig |
 | app-vibe-01 🔒 | Projekt Nr. 1 | folgt | 🔵 geplant |
 | app-vibe-02 🔒 | Projekt Nr. 2 | folgt | 🔵 geplant |
 
