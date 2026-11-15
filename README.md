@@ -6,7 +6,7 @@ Ich baue **Apps und KI-Projekte, die den Alltag einfacher machen**: mit FlutterF
 
 | Projekt | Beschreibung | Tech | Status |
 |---|---|---|---|
-| app-flutterflow 🔒 | Meine App, gebaut mit FlutterFlow | FlutterFlow · Flutter · Dart | 🟡 in Arbeit |
+| **ProcureFlow** 🔒 | Einkaufs-Cockpit mit automatischer Budget- und Freigabeprüfung (Uni-Projekt, TU Dortmund) | FlutterFlow · Flutter · Dart | 🟢 fertig |
 | app-vibe-01 🔒 | Projekt Nr. 1 | folgt | 🔵 geplant |
 | app-vibe-02 🔒 | Projekt Nr. 2 | folgt | 🔵 geplant |
 
